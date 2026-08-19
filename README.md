@@ -22,21 +22,37 @@ I am a Computer Science undergraduate from Malaysia. I enjoy tracing how systems
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="assets/icons/python-original.svg" width="54" height="54" alt="Python" title="Python">
+  <a href="https://www.python.org/" title="Python">
+    <img src="assets/icons/python-original.svg" width="54" height="54" alt="Python">
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/icons/kotlin-original.svg" width="54" height="54" alt="Kotlin" title="Kotlin">
+  <a href="https://kotlinlang.org/" title="Kotlin">
+    <img src="assets/icons/kotlin-original.svg" width="54" height="54" alt="Kotlin">
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/icons/javascript-original.svg" width="54" height="54" alt="JavaScript" title="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="assets/icons/javascript-original.svg" width="54" height="54" alt="JavaScript">
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/icons/html5-original.svg" width="54" height="54" alt="HTML5" title="HTML5">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="assets/icons/html5-original.svg" width="54" height="54" alt="HTML5">
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/icons/css3-original.svg" width="54" height="54" alt="CSS3" title="CSS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="assets/icons/css3-original.svg" width="54" height="54" alt="CSS3">
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/icons/fastapi-original.svg" width="54" height="54" alt="FastAPI" title="FastAPI">
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="assets/icons/fastapi-original.svg" width="54" height="54" alt="FastAPI">
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/icons/mongodb-original.svg" width="54" height="54" alt="MongoDB" title="MongoDB">
+  <a href="https://www.mongodb.com/docs/" title="MongoDB">
+    <img src="assets/icons/mongodb-original.svg" width="54" height="54" alt="MongoDB">
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/icons/docker-original.svg" width="54" height="54" alt="Docker" title="Docker">
+  <a href="https://docs.docker.com/" title="Docker">
+    <img src="assets/icons/docker-original.svg" width="54" height="54" alt="Docker">
+  </a>
 </p>
 
 ## 🌱 Learning Journey
