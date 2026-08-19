@@ -19,8 +19,6 @@ I am a Computer Science undergraduate from Malaysia. I enjoy tracing how systems
 
 > **How I like to build:** useful, clear, and dependable.
 
-<p><sub>📍 Malaysia · UTC+08:00</sub></p>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
