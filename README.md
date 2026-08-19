@@ -6,21 +6,13 @@
   <img alt="OSSWT — Computer Science undergraduate, builder, and problem solver from Malaysia" src="assets/hero-light.svg" width="100%">
 </picture>
 
-## `// ABOUT_ME`
+## About me
 
 I am a Computer Science undergraduate from Malaysia who enjoys understanding how software works and turning ideas into practical, thoughtful applications.
 
-```text
-mindset   curious by default
-approach  learn deeply
-          build thoughtfully
-          improve continuously
-interest  useful software
-          clean interfaces
-          dependable systems
-```
+I care about **useful software**, **clear interfaces**, and **dependable systems**.
 
-## `// TECH_TOOLBOX`
+## Tech toolbox
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/toolbox-mobile-dark.svg">
@@ -30,35 +22,10 @@ interest  useful software
   <img alt="Tech toolbox: Python, Kotlin, JavaScript, HTML, CSS, Bootstrap, FastAPI, MongoDB, OpenCV, Git, GitHub, and Docker" src="assets/toolbox-light.svg" width="100%">
 </picture>
 
-## `// CURRENT_MODE`
+## Current focus
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>01 · LEARNING</strong><br><br>
-      Deeper backend architecture, system design, and the reasoning behind reliable software.
-    </td>
-    <td width="33%" valign="top">
-      <strong>02 · BUILDING</strong><br><br>
-      Practical experiences across web, mobile, and API development.
-    </td>
-    <td width="33%" valign="top">
-      <strong>03 · REFINING</strong><br><br>
-      Cleaner code, clearer interfaces, and stronger problem-solving habits.
-    </td>
-  </tr>
-</table>
+- **Learning** deeper backend architecture and system design.
+- **Building** practical experiences across web, mobile, and API development.
+- **Refining** code clarity, interface design, and problem-solving habits.
 
-## `// CONNECT`
-
-Open to learning, collaboration, and ideas that turn into useful software.
-
-<a href="https://github.com/OSSWT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/connect-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/connect-light.svg">
-    <img src="assets/connect-light.svg" alt="Visit the OSSWT GitHub profile" height="42">
-  </picture>
-</a>
-
-<sub>Designed as a quiet developer identity: less noise, more signal.</sub>
+<p align="center"><sub>learn deeply · build thoughtfully · improve continuously</sub></p>
