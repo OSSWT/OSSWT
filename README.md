@@ -13,53 +13,55 @@
   <code>Systems</code> · <code>Web</code> · <code>Mobile</code> · <code>Backend</code> · <code>Data</code> · <code>Design</code>
 </p>
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <h3>01 / About</h3>
-      <p>
-        I am a Computer Science undergraduate from Malaysia. I enjoy tracing how
-        systems work, shaping clear interfaces, and turning rough ideas into
-        software people can actually use.
-      </p>
-      <p>
-        <strong>How I like to build</strong><br>
-        <sub>Useful. Clear. Dependable.</sub>
-      </p>
-      <p><sub>📍 Malaysia · UTC+08:00</sub></p>
-    </td>
-    <td width="60%" valign="top">
-      <h3>02 / Toolbox</h3>
-      <picture>
-        <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
-        <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
-        <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-        <img alt="Technology toolbox: Python, Kotlin, JavaScript, HTML, CSS, Bootstrap, FastAPI, MongoDB, OpenCV, Git, GitHub, and Docker" src="assets/stack-light.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+## 👤 About Me
 
-## 03 / Current direction
+I am a Computer Science undergraduate from Malaysia. I enjoy tracing how systems work, shaping clear interfaces, and turning rough ideas into software people can actually use.
+
+> **How I like to build:** useful, clear, and dependable.
+
+<p><sub>📍 Malaysia · UTC+08:00</sub></p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="assets/icons/python-original.svg" width="54" height="54" alt="Python" title="Python">
+  &nbsp;&nbsp;
+  <img src="assets/icons/kotlin-original.svg" width="54" height="54" alt="Kotlin" title="Kotlin">
+  &nbsp;&nbsp;
+  <img src="assets/icons/javascript-original.svg" width="54" height="54" alt="JavaScript" title="JavaScript">
+  &nbsp;&nbsp;
+  <img src="assets/icons/html5-original.svg" width="54" height="54" alt="HTML5" title="HTML5">
+  &nbsp;&nbsp;
+  <img src="assets/icons/css3-original.svg" width="54" height="54" alt="CSS3" title="CSS3">
+  &nbsp;&nbsp;
+  <img src="assets/icons/fastapi-original.svg" width="54" height="54" alt="FastAPI" title="FastAPI">
+  &nbsp;&nbsp;
+  <img src="assets/icons/mongodb-original.svg" width="54" height="54" alt="MongoDB" title="MongoDB">
+  &nbsp;&nbsp;
+  <img src="assets/icons/docker-original.svg" width="54" height="54" alt="Docker" title="Docker">
+</p>
+
+## 🌱 Learning Journey
+
+I am actively learning across different areas of computer science—strengthening the fundamentals, exploring new tools, and connecting each piece of knowledge through practice.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Systems</strong><br>
-      <sub>Learning deeper backend architecture and system design.</sub>
+      <strong>🧠 Core Knowledge</strong><br>
+      <sub>Building stronger foundations in programming concepts, data structures, algorithms, and logic.</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Craft</strong><br>
-      <sub>Building across web, mobile, and API development.</sub>
+      <strong>🧩 Across the Stack</strong><br>
+      <sub>Expanding practical knowledge across web, mobile, backend, APIs, and databases.</sub>
     </td>
     <td width="34%" valign="top">
-      <strong>Quality</strong><br>
-      <sub>Improving code clarity and thoughtful product decisions.</sub>
+      <strong>🔭 Continuous Exploration</strong><br>
+      <sub>Learning system design, software quality, and unfamiliar topics one step at a time.</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub><code>BUILD USEFUL THINGS · KEEP LEARNING</code></sub>
+  <sub><code>LEARN WIDELY · BUILD THOUGHTFULLY · KEEP GROWING</code></sub>
 </p>
