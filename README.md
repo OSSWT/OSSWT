@@ -1,31 +1,31 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="OSSWT — Computer Science undergraduate, builder, and problem solver from Malaysia" src="assets/hero-light.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/identity-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/identity-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/identity-light.svg">
+  <img alt="OSSWT — Computer Science undergraduate from Malaysia, interested in web, mobile, backend, data, design, and logic" src="assets/identity-light.svg" width="100%">
 </picture>
 
-## About me
+<p align="center"><sub>software should feel useful, clear, and dependable.</sub></p>
 
-I am a Computer Science undergraduate from Malaysia who enjoys understanding how software works and turning ideas into practical, thoughtful applications.
+## 01 / About
 
-I care about **useful software**, **clear interfaces**, and **dependable systems**.
+I am a Computer Science undergraduate from Malaysia. I enjoy tracing how systems work, shaping clear interfaces, and turning rough ideas into software people can actually use.
 
-## Tech toolbox
+## 02 / Toolbox
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/toolbox-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/toolbox-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg">
-  <img alt="Tech toolbox: Python, Kotlin, JavaScript, HTML, CSS, Bootstrap, FastAPI, MongoDB, OpenCV, Git, GitHub, and Docker" src="assets/toolbox-light.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Technology toolbox: Python, Kotlin, JavaScript, HTML, CSS, Bootstrap, FastAPI, MongoDB, OpenCV, Git, GitHub, and Docker" src="assets/stack-light.svg" width="100%">
 </picture>
 
-## Current focus
+## 03 / Current direction
 
-- **Learning** deeper backend architecture and system design.
-- **Building** practical experiences across web, mobile, and API development.
-- **Refining** code clarity, interface design, and problem-solving habits.
+- **Systems** — learning deeper backend architecture and system design.
+- **Craft** — building across web, mobile, and API development.
+- **Quality** — improving code clarity and thoughtful product decisions.
 
-<p align="center"><sub>learn deeply · build thoughtfully · improve continuously</sub></p>
+<p align="center"><sub>BUILD USEFUL THINGS · KEEP LEARNING</sub></p>

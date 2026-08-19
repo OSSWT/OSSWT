@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">OSSWT developer identity</title>
+  <desc id="desc">A warm light developer profile banner with a six-node capability map.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fbf8f0"/>
+      <stop offset="1" stop-color="#edf5f8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#b57b00"/>
+      <stop offset=".48" stop-color="#287fac"/>
+      <stop offset="1" stop-color="#167d74"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#47677f" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="388" rx="24" fill="url(#bg)" stroke="#c7d1d8" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="388" rx="24" fill="url(#grid)"/>
+  <path d="M28 64H1172" stroke="#c7d1d8"/>
+  <circle cx="37" cy="33" r="5" fill="#c95f43"/>
+  <circle cx="56" cy="33" r="5" fill="#b57b00"/>
+  <circle cx="75" cy="33" r="5" fill="#167d74"/>
+  <text x="99" y="39" fill="#62798b" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">profile://osswt</text>
+  <text x="1158" y="39" text-anchor="end" fill="#62798b" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">01 / DEVELOPER ID</text>
+
+  <text x="56" y="124" fill="#287fac" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17" letter-spacing="2">HELLO, I AM</text>
+  <text x="52" y="204" fill="#1a2b3c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="84" font-weight="800" letter-spacing="5">OSSWT</text>
+  <rect x="56" y="221" width="455" height="3" rx="2" fill="url(#accent)"/>
+  <text x="56" y="261" fill="#40586c" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" letter-spacing="2">COMPUTER SCIENCE UNDERGRADUATE</text>
+  <text x="56" y="304" fill="#9b6900" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">BUILD USEFUL THINGS.</text>
+  <text x="280" y="304" fill="#287fac" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">KEEP LEARNING.</text>
+  <text x="56" y="350" fill="#62798b" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">MALAYSIA  /  UTC+08:00</text>
+
+  <g transform="translate(930 220)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+    <polygon points="0,-121 105,-61 105,61 0,121 -105,61 -105,-61" fill="#f4f7f5" stroke="#b7c8d1" stroke-width="2"/>
+    <polygon points="0,-58 50,-29 50,29 0,58 -50,29 -50,-29" fill="#ffffff" stroke="#b57b00" stroke-width="2"/>
+    <path d="M0-58V-121M50-29L105-61M50 29L105 61M0 58V121M-50 29L-105 61M-50-29L-105-61" stroke="#8ca4b5" stroke-width="2"/>
+    <g>
+      <circle cy="-121" r="8" fill="#b57b00"/>
+      <circle cx="105" cy="-61" r="8" fill="#287fac"/>
+      <circle cx="105" cy="61" r="8" fill="#167d74"/>
+      <circle cy="121" r="8" fill="#b57b00"/>
+      <circle cx="-105" cy="61" r="8" fill="#c95f43"/>
+      <circle cx="-105" cy="-61" r="8" fill="#287fac"/>
+    </g>
+    <text y="-7" text-anchor="middle" fill="#1a2b3c" font-size="15" font-weight="700">&lt;DEV/&gt;</text>
+    <text y="14" text-anchor="middle" fill="#62798b" font-size="11">OSSWT</text>
+    <g fill="#40586c" font-size="11" text-anchor="middle">
+      <text y="-143">SYSTEMS</text>
+      <text x="140" y="-57">WEB</text>
+      <text x="145" y="66">MOBILE</text>
+      <text y="151">DATA</text>
+      <text x="-144" y="66">DESIGN</text>
+      <text x="-140" y="-57">LOGIC</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="780" viewBox="0 0 800 780" role="img" aria-labelledby="title desc">
+  <title id="title">OSSWT mobile technology toolbox</title>
+  <desc id="desc">A compact four-group technology index.</desc>
+  <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#b57b00"/><stop offset=".5" stop-color="#287fac"/><stop offset="1" stop-color="#167d74"/></linearGradient></defs>
+  <rect x="1" y="1" width="798" height="778" rx="24" fill="#f8f7f1" stroke="#c7d1d8" stroke-width="2"/>
+  <text x="38" y="54" fill="#1a2b3c" font-family="ui-monospace,Consolas,monospace" font-size="24" font-weight="700">TECH / INDEX</text>
+  <text x="762" y="54" text-anchor="end" fill="#62798b" font-family="ui-monospace,Consolas,monospace" font-size="17">12 TOOLS</text>
+  <rect x="38" y="75" width="724" height="3" fill="url(#line)"/>
+  <g font-family="ui-monospace,Consolas,monospace">
+    <g transform="translate(28 100)">
+      <rect width="744" height="145" rx="16" fill="#ffffff" stroke="#d9dfe2"/>
+      <text x="18" y="36" fill="#9b6900" font-size="19" font-weight="700">01 / LANGUAGES</text>
+      <g transform="translate(18 58)" font-size="20" fill="#40586c"><rect width="215" height="58" rx="10" fill="#f7f9f8" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#b57b00"/><text x="43" y="36">Python</text><g transform="translate(242)"><rect width="215" height="58" rx="10" fill="#f7f9f8" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#287fac"/><text x="43" y="36">Kotlin</text></g><g transform="translate(484)"><rect width="215" height="58" rx="10" fill="#f7f9f8" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#167d74"/><text x="43" y="36">JavaScript</text></g></g>
+    </g>
+    <g transform="translate(28 265)">
+      <rect width="744" height="145" rx="16" fill="#f4f7f5" stroke="#d9dfe2"/>
+      <text x="18" y="36" fill="#287fac" font-size="19" font-weight="700">02 / INTERFACE</text>
+      <g transform="translate(18 58)" font-size="20" fill="#40586c"><rect width="215" height="58" rx="10" fill="#ffffff" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#c95f43"/><text x="43" y="36">HTML</text><g transform="translate(242)"><rect width="215" height="58" rx="10" fill="#ffffff" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#287fac"/><text x="43" y="36">CSS</text></g><g transform="translate(484)"><rect width="215" height="58" rx="10" fill="#ffffff" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#665aaf"/><text x="43" y="36">Bootstrap</text></g></g>
+    </g>
+    <g transform="translate(28 430)">
+      <rect width="744" height="145" rx="16" fill="#ffffff" stroke="#d9dfe2"/>
+      <text x="18" y="36" fill="#167d74" font-size="19" font-weight="700">03 / SYSTEMS</text>
+      <g transform="translate(18 58)" font-size="20" fill="#40586c"><rect width="215" height="58" rx="10" fill="#f7f9f8" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#167d74"/><text x="43" y="36">FastAPI</text><g transform="translate(242)"><rect width="215" height="58" rx="10" fill="#f7f9f8" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#398c43"/><text x="43" y="36">MongoDB</text></g><g transform="translate(484)"><rect width="215" height="58" rx="10" fill="#f7f9f8" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#c95f43"/><text x="43" y="36">OpenCV</text></g></g>
+    </g>
+    <g transform="translate(28 595)">
+      <rect width="744" height="145" rx="16" fill="#f4f7f5" stroke="#d9dfe2"/>
+      <text x="18" y="36" fill="#b34d35" font-size="19" font-weight="700">04 / WORKFLOW</text>
+      <g transform="translate(18 58)" font-size="20" fill="#40586c"><rect width="215" height="58" rx="10" fill="#ffffff" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#c95f43"/><text x="43" y="36">Git</text><g transform="translate(242)"><rect width="215" height="58" rx="10" fill="#ffffff" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#40586c"/><text x="43" y="36">GitHub</text></g><g transform="translate(484)"><rect width="215" height="58" rx="10" fill="#ffffff" stroke="#c7d1d8"/><circle cx="25" cy="29" r="6" fill="#287fac"/><text x="43" y="36">Docker</text></g></g>
+    </g>
+  </g>
+</svg>

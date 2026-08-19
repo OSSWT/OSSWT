@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700" viewBox="0 0 800 700" role="img" aria-labelledby="title desc">
+  <title id="title">OSSWT mobile developer identity</title>
+  <desc id="desc">A compact midnight profile banner with a six-node capability map.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06101d"/><stop offset="1" stop-color="#0d2031"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#f2c14e"/><stop offset=".48" stop-color="#70b7e6"/><stop offset="1" stop-color="#51c2a8"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9db2c6" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="798" height="698" rx="24" fill="url(#bg)" stroke="#29435d" stroke-width="2"/>
+  <rect x="1" y="1" width="798" height="698" rx="24" fill="url(#grid)"/>
+  <path d="M26 66H774" stroke="#29435d"/>
+  <circle cx="36" cy="34" r="5" fill="#e67e5f"/><circle cx="55" cy="34" r="5" fill="#f2c14e"/><circle cx="74" cy="34" r="5" fill="#51c2a8"/>
+  <text x="98" y="40" fill="#91a6b9" font-family="ui-monospace,Consolas,monospace" font-size="15">profile://osswt</text>
+  <text x="752" y="40" text-anchor="end" fill="#91a6b9" font-family="ui-monospace,Consolas,monospace" font-size="13">DEVELOPER ID</text>
+  <text x="44" y="128" fill="#70b7e6" font-family="ui-monospace,Consolas,monospace" font-size="18" letter-spacing="2">HELLO, I AM</text>
+  <text x="40" y="219" fill="#f4f1e8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="94" font-weight="800" letter-spacing="6">OSSWT</text>
+  <rect x="44" y="240" width="712" height="4" rx="2" fill="url(#accent)"/>
+  <text x="44" y="286" fill="#c7d3dd" font-family="ui-monospace,Consolas,monospace" font-size="21" letter-spacing="2">COMPUTER SCIENCE UNDERGRADUATE</text>
+  <text x="44" y="330" fill="#f2c14e" font-family="ui-monospace,Consolas,monospace" font-size="18">BUILD USEFUL THINGS.</text>
+  <text x="270" y="330" fill="#70b7e6" font-family="ui-monospace,Consolas,monospace" font-size="18">KEEP LEARNING.</text>
+  <g transform="translate(400 505)" font-family="ui-monospace,Consolas,monospace">
+    <polygon points="0,-120 104,-60 104,60 0,120 -104,60 -104,-60" fill="#091827" stroke="#29435d" stroke-width="2"/>
+    <polygon points="0,-54 47,-27 47,27 0,54 -47,27 -47,-27" fill="#10283a" stroke="#f2c14e" stroke-width="2"/>
+    <path d="M0-54V-120M47-27L104-60M47 27L104 60M0 54V120M-47 27L-104 60M-47-27L-104-60" stroke="#41627d" stroke-width="2"/>
+    <circle cy="-120" r="8" fill="#f2c14e"/><circle cx="104" cy="-60" r="8" fill="#70b7e6"/><circle cx="104" cy="60" r="8" fill="#51c2a8"/><circle cy="120" r="8" fill="#f2c14e"/><circle cx="-104" cy="60" r="8" fill="#e67e5f"/><circle cx="-104" cy="-60" r="8" fill="#70b7e6"/>
+    <text y="6" text-anchor="middle" fill="#f4f1e8" font-size="16" font-weight="700">&lt;DEV/&gt;</text>
+    <g fill="#c7d3dd" font-size="12" text-anchor="middle"><text y="-141">SYSTEMS</text><text x="140" y="-56">WEB</text><text x="145" y="65">MOBILE</text><text y="148">DATA</text><text x="-144" y="65">DESIGN</text><text x="-140" y="-56">LOGIC</text></g>
+  </g>
+</svg>
